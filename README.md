@@ -4,7 +4,7 @@ A semi-exhaustive list of books I hope to read soon
 
 ---
 
-# Computer Science & Software Engineering Reading List
+# Computer Science & Software Engineering
 
 ## Beginner
 
